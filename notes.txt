@@ -1,6 +1,6 @@
 Javascript is a programming language used to make the web pages interactive.
 
-using Javascript we can able develop both backend and frontend applications
+using Javascript we can able to develop both backend and frontend applications
 
 
 browser they v8 engine -> Javascript code -> compile -> machine code
